@@ -1,0 +1,6 @@
+{
+  "name": "ExamPrep AI",
+  "description": "An AI-powered Exam Preparation and Question Paper Generator platform for school, college, and entrance exams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
